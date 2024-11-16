@@ -10,6 +10,8 @@
  - Cameron Mead, cwm6700@g.rit.edu
  - 
 
+
+
 * Created 11.16.2024
 * Current Project : RITCHIE-1 (Radiation Intensity Test CubeSat using High Intensity Electromagnet)
     * Current Payload : Radiation Sensor Proof of Concept and Data Gathering
